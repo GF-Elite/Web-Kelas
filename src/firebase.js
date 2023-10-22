@@ -10,13 +10,13 @@ import {getAuth, GoogleAuthProvider} from 'firebase/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCSPIOD4MIkBIJRWbyaWk29HFGmCteDmms",
-  authDomain: "asal12.firebaseapp.com",
-  projectId: "asal12",
-  storageBucket: "asal12.appspot.com",
-  messagingSenderId: "947501359244",
-  appId: "1:947501359244:web:af47c850e25e4b24f1dba9",
-  
+  apiKey: "AIzaSyCZoZ2PEE5I1XTU5Ul_3u33P_Mx2IE8L8g",
+  authDomain: "tugas-sekolah-c2eb7.firebaseapp.com",
+  projectId: "tugas-sekolah-c2eb7",
+  storageBucket: "tugas-sekolah-c2eb7.appspot.com",
+  messagingSenderId: "864810275610",
+  appId: "1:864810275610:web:0705ada2d46bb5ad97d2a3",
+  measurementId: "G-ZTF4JR1DK7"
 };
 
 // Initialize Firebase
